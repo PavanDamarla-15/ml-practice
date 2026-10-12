@@ -24,6 +24,7 @@ I'm a Computer Science Engineering student working toward becoming an **AI Engin
 | 07 | `07_Decision_Trees.ipynb` | Decision Trees, tree depth, overfitting |
 | 08 | `08_Random_Forest.ipynb` | Ensemble learning, Random Forest, feature importance |
 | 09 | `09_SVM.ipynb` | Support Vector Machines, support vectors, kernels |
+| 10 | `10_KMeans_Clustering.ipynb` | Unsupervised learning, K-Means, centroids, Elbow Method, Silhouette Score |
 
 ## 🛠️ Tools and Technologies
 
