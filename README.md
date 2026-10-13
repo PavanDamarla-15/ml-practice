@@ -25,6 +25,8 @@ I'm a Computer Science Engineering student working toward becoming an **AI Engin
 | 08 | `08_Random_Forest.ipynb` | Ensemble learning, Random Forest, feature importance |
 | 09 | `09_SVM.ipynb` | Support Vector Machines, support vectors, kernels |
 | 10 | `10_KMeans_Clustering.ipynb` | Unsupervised learning, K-Means, centroids, Elbow Method, Silhouette Score |
+| 11 | `11_Hierarchical_Clustering.ipynb` | Agglomerative Clustering, dendrograms, linkage methods, Silhouette Score |
+
 
 ## 🛠️ Tools and Technologies
 
