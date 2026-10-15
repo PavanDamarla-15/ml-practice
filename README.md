@@ -26,7 +26,7 @@ I'm a Computer Science Engineering student working toward becoming an **AI Engin
 | 09 | `09_SVM.ipynb` | Support Vector Machines, support vectors, kernels |
 | 10 | `10_KMeans_Clustering.ipynb` | Unsupervised learning, K-Means, centroids, Elbow Method, Silhouette Score |
 | 11 | `11_Hierarchical_Clustering.ipynb` | Agglomerative Clustering, dendrograms, linkage methods, Silhouette Score |
-
+| 12 | `12_Principal_Component_Analysis.ipynb` | Dimensionality reduction, StandardScaler, principal components, explained variance |
 
 ## 🛠️ Tools and Technologies
 
