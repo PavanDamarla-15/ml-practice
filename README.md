@@ -28,6 +28,7 @@ I'm a Computer Science Engineering student working toward becoming an **AI Engin
 | 11 | `11_Hierarchical_Clustering.ipynb` | Agglomerative Clustering, dendrograms, linkage methods, Silhouette Score |
 | 12 | `12_Principal_Component_Analysis.ipynb` | Dimensionality reduction, StandardScaler, principal components, explained variance |
 | 13 | `13_DBSCAN_Clustering.ipynb` | Density-based clustering, eps, min_samples, noise points, silhouette score, parameter tuning |
+| 14 | `14_Gaussian_Mixture_Models.ipynb` | Gaussian Mixture Models, probabilistic clustering, Gaussian means, covariance matrices, mixture weights, GMM vs K-Means |
 
 ## 🛠️ Tools and Technologies
 
