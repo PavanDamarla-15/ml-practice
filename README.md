@@ -31,6 +31,7 @@ I'm a Computer Science Engineering student working toward becoming an **AI Engin
 | 14 | `14_Gaussian_Mixture_Models.ipynb` | Gaussian Mixture Models, probabilistic clustering, Gaussian means, covariance matrices, mixture weights, GMM vs K-Means |
 | 15 | `15_Clustering_Model_Evaluation.ipynb` | Silhouette Score, Elbow Method, inertia, Davies-Bouldin Index, K-Means, DBSCAN, GMM evaluation and model comparison |
 | 16 | `16_Feature_Engineering.ipynb` | Feature engineering, missing-value handling, One-Hot Encoding, Ordinal Encoding, feature scaling, correlation and feature selection |
+| 17 | `17_Handling_Missing_Values.ipynb` | Mean, median and mode imputation, dropna, forward fill, backward fill, Scikit-learn SimpleImputer and constant imputation |
 
 ## 🛠️ Tools and Technologies
 
