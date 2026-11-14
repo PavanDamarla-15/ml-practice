@@ -34,6 +34,7 @@ I'm a Computer Science Engineering student working toward becoming an **AI Engin
 | 17 | `17_Handling_Missing_Values.ipynb` | Mean, median and mode imputation, dropna, forward fill, backward fill, Scikit-learn SimpleImputer and constant imputation |
 | 18 | `18_Categorical_Encoding.ipynb` | Label Encoding, One-Hot Encoding, Ordinal Encoding, pd.get_dummies(), OneHotEncoder and handling unknown categories |
 | 19 | `19_Feature_Scaling_and_Transformation.ipynb` | StandardScaler, MinMaxScaler, RobustScaler, outlier impact, Log Transformation and feature scaling comparison |
+| 20 | `20_Feature_Selection.ipynb` | Variance Threshold, correlation analysis, multicollinearity, RFE, Lasso regularization and Random Forest feature importance |
 
 ## 🛠️ Tools and Technologies
 
